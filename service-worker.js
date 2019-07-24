@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Writers-of-Belarus/precache-manifest.f6c7ddd1cb56b340186b6b2b5d6e3561.js"
+  "/Writers-of-Belarus/precache-manifest.ee20fa61ec86014a9c2bb76a4d21a080.js"
 );
 
 self.addEventListener('message', (event) => {

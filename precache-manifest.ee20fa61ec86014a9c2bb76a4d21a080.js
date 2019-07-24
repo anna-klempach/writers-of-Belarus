@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "416c6785a5b603b5eb53d4d9910aa54b",
+    "revision": "5a7a5a2bea36cb138fc28f82871dab8e",
     "url": "/Writers-of-Belarus/index.html"
   },
   {
-    "revision": "da4f61bec62566456c51",
+    "revision": "1eb4f1c018ce6ec28d13",
     "url": "/Writers-of-Belarus/static/css/main.78ca6917.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Writers-of-Belarus/static/js/2.cdd56b36.chunk.js"
   },
   {
-    "revision": "da4f61bec62566456c51",
-    "url": "/Writers-of-Belarus/static/js/main.ae5a86f4.chunk.js"
+    "revision": "1eb4f1c018ce6ec28d13",
+    "url": "/Writers-of-Belarus/static/js/main.91721cb7.chunk.js"
   },
   {
     "revision": "dccc0355f9527061a3c5",
