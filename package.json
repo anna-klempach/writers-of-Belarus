@@ -2,7 +2,7 @@
   "name": "culture-portal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://georgpandeh.github.io/Writers-of-Belarus/",
+  "homepage": "https://georgpandeh.github.io/writers-of-Belarus/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

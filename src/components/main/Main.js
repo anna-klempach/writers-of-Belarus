@@ -4,7 +4,7 @@ import './main.css';
 class Main extends Component {
   render() {
     return (
-      <div>culture-portal</div>
+      <div>Всем привет!</div>
     )
   }
 }
